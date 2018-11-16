@@ -2,7 +2,7 @@
 /// @brief Contains a class for efficient computation of the median of a changing set of numbers.
 /// @author Nikola Bozhinov
 
-@pragma once
+#pragma once
 
 #include <queue>
 #include <vector>
